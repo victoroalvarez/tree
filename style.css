@@ -1,3 +1,4 @@
+/* General properties */
 body {
   font-family: Helvetica, sans-serif, Arial;
   /* Gradient */
@@ -12,11 +13,13 @@ body {
   text-align: center;
 }
 
+/* Images properties */
 img {
   border-radius: 50%;
   width: 100px;
 }
 
+/* Paragraph fonts */
 p {
   font-family: monospace;
   font-size: 16px;
