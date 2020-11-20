@@ -31,10 +31,11 @@ p {
   color: white;
   border: 1px solid white;
   /* border-radius: 50px; */
-  width: 70%;
+  width: 60%;
   padding: 16px 32px;
   text-align: center;
   text-decoration: none;
+  font-weight: bold;
   display: inline-block;
   font-size: 16px;
   margin: 4px 2px;
