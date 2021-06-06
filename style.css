@@ -51,3 +51,11 @@ p {
   border: 1px solid white;
   color: rgba(9,9,121,1);
 }
+
+/* Use a media query to add a breakpoint at 800px: */
+/* When the screen is wider than 800px, the width of buttons */ 
+/* is 30% of the screen's width. */
+@media screen and (min-width: 800px) {
+  .button {
+  width: 30%;
+}
